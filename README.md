@@ -46,7 +46,7 @@ dependencies: [
 
 ## 功能特性 ✨ | Features <a name="功能特性"></a>
 
-### 使用@resultBuilder新特性为 UIView和UIStackView容器增强
+### 使用@resultBuilder为UIView和UIStackView容器增强
 - 多容器嵌套+布局完美复刻SwiftUI
 ```swift
 ZStackView == UIView
